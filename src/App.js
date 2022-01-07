@@ -1,7 +1,7 @@
-import React from 'react';
-import Calculator from './components/Calculator';
-import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import React from 'react'
+import Calculator from './components/Calculator'
+import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <Calculator />
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
