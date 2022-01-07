@@ -28,31 +28,31 @@
   color: #61dafb;
 }
 
-.Calculator-container{
-  height: 60vmin;;
+.Calculator-container {
+  height: 60vmin;
 }
 
-.Screen{
+.Screen {
   color: #fff;
   background-color: #858694;
-  border: 1px solid #D1D1D1;
+  border: 1px solid #d1d1d1;
   text-align: right;
   width: 100%;
 }
 
-.Buttons-container{
+.Buttons-container {
   height: 100% !important;
   display: flex;
-    align-items: stretch;
+  align-items: stretch;
 }
 
 .Buttons {
   color: #000;
-  background-color: #E0E0E0;
-  border: 1px solid #D1D1D1;
+  background-color: #e0e0e0;
+  border: 1px solid #d1d1d1;
 }
 
-.Arithmetic-buttons{
-  background-color: #F3903D;
-  border: 1px solid #D1D1D1;
+.Arithmetic-buttons {
+  background-color: #f3903d;
+  border: 1px solid #d1d1d1;
 }
