@@ -31,7 +31,19 @@
         ],
         "react/react-in-jsx-scope": "off",
         "import/no-unresolved": "off",
-        "no-shadow": "off"
+        "no-shadow": "off",
+        "semi": [
+            2,
+            "never"
+        ],
+        "jsx-quotes": [
+            "error",
+            "prefer-double"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ]
     },
     "ignorePatterns": [
         "dist/",
