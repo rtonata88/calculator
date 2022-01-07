@@ -11,7 +11,7 @@ class Screen extends React.Component {
   render() {
     return (
       <div className="row">
-        <div className="Screen">
+        <div className="Screen p-4">
           0
         </div>
       </div>

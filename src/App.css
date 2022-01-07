@@ -29,7 +29,7 @@
 }
 
 .Calculator-container{
-  height: auto;
+  height: 60vmin;;
 }
 
 .Screen{
@@ -37,9 +37,15 @@
   background-color: #858694;
   border: 1px solid #D1D1D1;
   text-align: right;
-  padding: 10px;
   width: 100%;
 }
+
+.Buttons-container{
+  height: 100% !important;
+  display: flex;
+    align-items: stretch;
+}
+
 .Buttons {
   color: #000;
   background-color: #E0E0E0;

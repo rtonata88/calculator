@@ -12,7 +12,7 @@ class Calculator extends React.Component {
 
   render() {
     return (
-      <div className="row py-lg-5">
+      <div className="row">
         <div className="col-lg-4 col-md-4 mx-auto border">
           <div className="Calculator-container">
             <Screen />
