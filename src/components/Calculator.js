@@ -76,7 +76,10 @@ const Calculator = () => {
 
   return (
     <div className="row">
-      <div className="col-lg-4 col-md-4 mx-auto border">
+      <div className="offset-3 col-md-4">
+        <p>Now! Let us do some Maths!</p>
+      </div>
+      <div className="col-md-4 border">
         <div className="Calculator-container">
           <div className="row">
             <Screen
