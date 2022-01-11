@@ -1,6 +1,7 @@
 import React from 'react'
 import Calculator from './components/Calculator'
 import Home from './components/Home'
+import Quote from './components/Quote'
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
@@ -11,6 +12,7 @@ function App() {
       <div className="row">
         <Calculator />
       </div>
+      <Quote />
     </div>
   )
 }
