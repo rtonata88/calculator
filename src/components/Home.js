@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 const Home = () => (
-  <div className="col-md-5 p-lg-5 mx-auto my-5">
-    <h1 className="display-4 fw-normal">Welcome to our page</h1>
-    <p className="lead fw-normal">
+  <div className='col-md-8 p-lg-5 mx-auto my-5'>
+    <h1 className='display-6 fw-normal'>Welcome to our page</h1>
+    <p className='lead fw-normal'>
       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
       Lorem Ipsum has been the industry standard dummy text ever since the
       1500s, when an unknown printer took a galley of type and scrambled it to
@@ -15,6 +15,6 @@ const Home = () => (
       Ipsum.
     </p>
   </div>
-)
+);
 
-export default Home
+export default Home;
