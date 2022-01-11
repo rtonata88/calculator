@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
-    <div className="py-5 text-center container">
+    <div className="py-3 container">
       <div className="row">
         <Calculator />
       </div>
