@@ -3,7 +3,9 @@
 # Calculator App
 A simple calculator app developed in React JS that users can use to perform simple mathematic operations.
 
-
+## Demo Links
+- [Heroku](https://richard-calculator.herokuapp.com/)
+- [Netlify](https://condescending-feynman-a52931.netlify.app/)
 ## Built With
 
 - React JS
